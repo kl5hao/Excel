@@ -1,3 +1,4 @@
+```
 '####更改记录####
 '在32位和64位上运行有一点点不同，如在32位系统运行，会重新打开总表。
 '20190516 行29 行44 行63 行39 将 for 2 改为for 2500，提高效率10s，目前运行约30s，主要是vlookup慢
@@ -334,3 +335,4 @@ Selection.Offset(0, 23).Select
 Application.ScreenUpdating = True
 Application.DisplayAlerts = True
 End Sub
+```
