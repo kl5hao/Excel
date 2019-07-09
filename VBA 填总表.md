@@ -1,4 +1,4 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 ```
 '####更改记录####
 '在32位和64位上运行有一点点不同，如在32位系统运行，会重新打开总表。
